@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6cd9e01ff3f3142a8d06466e24564c, type: 3}
+  m_Name: Default Store
+  m_EditorClassIdentifier: 
+  <Items>k__BackingField:
+  - itemSO: {fileID: 11400000, guid: 49fbeab04d2c6224bab21c666e1b4f8b, type: 2}
+    stock: 5
+  - itemSO: {fileID: 11400000, guid: 61dda47e347706d439b59ff5b811941c, type: 2}
+    stock: 10
+  - itemSO: {fileID: 11400000, guid: d4f9236517431714689d5ec652091654, type: 2}
+    stock: 10
+  - itemSO: {fileID: 11400000, guid: da8a83c54383f904fa8e426e29d60920, type: 2}
+    stock: 5
+  <Slots>k__BackingField: 12
