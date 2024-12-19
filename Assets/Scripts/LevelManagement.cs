@@ -102,7 +102,7 @@ public class LevelManagement : MonoBehaviour
         
         for (int i = 0; i < 10; i++)
         {
-            difficultyLevel += ;
+            difficultyLevel += 1;
             Generate();
         }
     }
