@@ -41,7 +41,6 @@ public class GameManager : Singleton<GameManager>
     
     private void InitializeControllers()
     {
-        _playerModel                      = new PlayerModel();
         _menuController                   = new MenuController(uiManager.MenuView, uiManager.PlayerSelectView, _playerModel);
         _gameplayController               = new GameplayController(uiManager.GameplayView, _playerModel, levelManagement);
         _settingController                = new SettingController(uiManager.SettingView,levelManagement,_playerModel,uiManager.MenuView);

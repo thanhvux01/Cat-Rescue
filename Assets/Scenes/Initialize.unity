@@ -2229,7 +2229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a7315824398f23469888e425bdd5574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiManager: {fileID: 181891818}
+  uiManager: {fileID: 0}
   sceneLoader: {fileID: 1503739210}
   levelManagement: {fileID: 1240291738}
   playerPrefab: {fileID: 2326405035289748329, guid: eae0b8b68086cad45a1cdfd1011a9024,
